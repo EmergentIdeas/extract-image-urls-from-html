@@ -1,0 +1,23 @@
+{
+  "name": "extract-image-urls-from-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extract-items.js",
+  "bin": {
+    "extract-image-urls-from-html": "./extract-items-command.js"
+  },
+  "scripts": {
+    "test": ". test/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmergentIdeas/extract-image-urls-from-html"
+  },
+  "author": "Dan Kolz",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "console-in-transformer": "^1.0.0",
+    "lodash": "^4.13.1"
+  }
+}
