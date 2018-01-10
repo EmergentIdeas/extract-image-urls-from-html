@@ -1,4 +1,4 @@
-# J-Quote
+# extract-image-urls-from-html
 
 Extracts image urls from source elements, either form the src or srcset attribute
 
